@@ -1,1 +1,1 @@
-# datas-cience-projects
+# datascience-projects
