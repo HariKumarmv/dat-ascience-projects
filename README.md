@@ -1,1 +1,1 @@
-# dat-ascience-projects
+# datas-cience-projects
